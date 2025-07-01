@@ -1,0 +1,6 @@
+@Royal_Study_HostAddress = http://localhost:5275
+
+GET {{Royal_Study_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
